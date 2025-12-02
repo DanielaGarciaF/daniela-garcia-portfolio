@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Aplicación de Simulación de Vulnerabilidades Web  
+#  Seguridad de Desarrollo de Sistemas (SDS) - Proyecto UTN-FRC  
 ### Laboratorio educativo de hacking ético y seguridad web
 
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)]()
@@ -16,9 +16,6 @@
 ##  Sobre la materia donde se desarrolló este proyecto
 
 Este trabajo práctico fue realizado para la materia:
-
-### ** Seguridad del Desarrollo de Sistemas de Información (SDS)**  
-**Universidad Tecnológica Nacional – Facultad Regional Córdoba (UTN FRC)**
 
 La materia tiene como propósito enseñar seguridad aplicada desde el inicio del ciclo de desarrollo de software (SDLC), incorporando pensamiento crítico y prácticas de ataque/defensa.
 

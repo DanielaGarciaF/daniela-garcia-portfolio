@@ -12,7 +12,7 @@
 
 ---
 
-## 🎓 Sobre la materia: Ingeniería y Calidad de Software (ICSW)
+##  Sobre la materia: Ingeniería y Calidad de Software (ICSW)
 
 Este proyecto fue realizado en la asignatura **Ingeniería y Calidad de Software (ICSW)**, perteneciente al 4to nivel de la carrera **Ingeniería en Sistemas de Información** en la **Universidad Tecnológica Nacional – Facultad Regional Córdoba (UTN-FRC)**.
 
@@ -33,7 +33,7 @@ La materia forma parte del Área de Desarrollo de Software y se orienta a:
 
 #  Proyecto 1 – TDD (Trabajo Práctico 6)
 
-## 🔧 Desarrollo dirigido por pruebas (TDD)  
+##  Desarrollo dirigido por pruebas (TDD)  
 Unidad: Aseguramiento de Calidad de Proceso y Producto – Unidad 4
 
 Este trabajo consistió en implementar una funcionalidad aplicando estrictamente el ciclo:
