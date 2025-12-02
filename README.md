@@ -8,7 +8,7 @@ A lo largo de mi formación adquirí experiencia en **desarrollo backend**, **pr
 Este repositorio reúne mis proyectos más relevantes, organizados para mostrar mis habilidades técnicas, mi manera de trabajar y mi evolución profesional dentro del mundo del desarrollo y la ingeniería de software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Florencia%20Garcia-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florenciadanielagarcia)
-[![GitHub](https://img.shields.io/badge/GitHub-GFlorDaniela-181717?logo=github&logoColor=white)](https://github.com/GFlorDaniela)
+[![GitHub](https://img.shields.io/badge/GitHub-DanielaGarciaF-181717?logo=github&logoColor=white)](https://github.com/DanielaGarciaF)
 [![Email](https://img.shields.io/badge/Email-gflordaniela344%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gflordaniela344@gmail.com)
 
 </div>
