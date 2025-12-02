@@ -5,7 +5,7 @@
 ### Advanced Information Systems Engineering Student (UTN-FRC)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Florencia%20Garcia-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florenciadanielagarcia)
-[![GitHub](https://img.shields.io/badge/GitHub-GFlorDaniela-181717?logo=github&logoColor=white)](https://github.com/GFlorDaniela)
+[![GitHub](https://img.shields.io/badge/GitHub-DanielaGarciaF-181717?logo=github&logoColor=white)](https://github.com/DanielaGarciaF)
 [![Email](https://img.shields.io/badge/Email-gflordaniela344%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gflordaniela344@gmail.com)
 
 </div>
